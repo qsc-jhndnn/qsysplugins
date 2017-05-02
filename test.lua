@@ -1,3 +1,3 @@
 Controls.go.EventHandler = function()
-  Controls.result.String = "now we change to version 2!!"
+  Controls.result.String = "super fancy version 3!!!"
 end
