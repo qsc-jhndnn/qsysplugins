@@ -1,3 +1,3 @@
 Controls.go.EventHandler = function()
-  Controls.result.String = "and this is a super commit xx"
+  Controls.result.String = "Now lets do something different"
 end
