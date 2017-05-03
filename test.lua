@@ -1,4 +1,4 @@
 Controls.go.EventHandler = function()
-  Controls.result.String = "example for joe"
+  Controls.result.String = "another example for joe"
 end
 
