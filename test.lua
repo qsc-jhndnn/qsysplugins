@@ -1,3 +1,3 @@
 print('this is a test')
 
-Controls.result.String = "this is version 1s2"
+Controls.result.String = "this is version 20"
